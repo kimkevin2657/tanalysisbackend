@@ -1,0 +1,15 @@
+./colbert/
+./ColBERTtemp/
+./googlecsv/
+
+colbert-32000.dnn
+
+googlepatents.py
+neggooglepatents.py
+query_positive_dict_query_id.pkl
+
+temp.json
+temp.py
+testsim.py
+timesleep.json
+utils2.py
